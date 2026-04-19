@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Confetti from './components/Confetti'
-import Loveloader from './components/loveloader';
+import Loveloader from './components/Loveloader';
 import { motion } from 'framer-motion';
 import TypewriterText from './components/TypewriterText';
 
